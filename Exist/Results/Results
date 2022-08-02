@@ -1,0 +1,11 @@
+# Run 1 
+lang: english
+train size: 96
+test size: 24
+
+Accuracy:  0.625
+
+For SVM linear and rbf kernel performing better (poly not working)
+
+
+swear words: 1-https://www.kaggle.com/nicapotato/bad-bad-words  (bad words)
